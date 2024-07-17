@@ -1,4 +1,4 @@
-import { c as commonjsGlobal } from './_chunks/polyfills-DtuN-KmU.js';
+import { c as commonjsGlobal } from '_chunks/polyfills-DtuN-KmU.js';
 
 var esModuleShims = {};
 
